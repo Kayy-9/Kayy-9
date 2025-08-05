@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<br> 👋 <br>Hi there! I'm **Godfred Koomson, a budding Data Analyst passionate about transforming data into actionable insights. I'm currently learning and building projects in:<br><br> 📊 Data Analysis with Excel, SQL, and Python (Pandas, NumPy)<br> 📈 **Data Visualization using Power BI and Matplotlib/Seaborn<br> 🧠 Exploring Machine Learning fundamentals<br> 🔍 Focused on improving problem-solving through real-world datasets<br><br>I'm using GitHub to share my learning journey through mini-projects, notebooks, and dashboards. Always open to feedback and collaboration!<br><br>
+<br> 👋 <br>Hi there! I'm Godfred Koomson, a budding Data Analyst passionate about transforming data into actionable insights. I'm currently learning and building projects in:<br><br> 📊 Data Analysis with Excel, SQL, and Python (Pandas, NumPy)<br> 📈 **Data Visualization using Power BI and Matplotlib/Seaborn<br> 🧠 Exploring Machine Learning fundamentals<br> 🔍 Focused on improving problem-solving through real-world datasets<br><br>I'm using GitHub to share my learning journey through mini-projects, notebooks, and dashboards. Always open to feedback and collaboration!<br><br>
 
 
 ## 🌐 Socials:
